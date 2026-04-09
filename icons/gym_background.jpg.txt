@@ -1,0 +1,4 @@
+# Gym Background Image Placeholder
+# Replace this file with your actual gym background image (JPG format)
+# Recommended size: 780x737 pixels or larger
+# This image appears behind the Dashboard and transaction screens

@@ -1,0 +1,4 @@
+# Gym Logo Placeholder
+# Replace this file with your actual gym logo (PNG format recommended)
+# Recommended size: 100x100 pixels
+# This logo appears on the Login screen
